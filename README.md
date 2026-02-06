@@ -1,2 +1,2 @@
 # experiment-log my project 
-this projext is about how to use github and gitbash
+this project is to teach me how to use github and gitbash
