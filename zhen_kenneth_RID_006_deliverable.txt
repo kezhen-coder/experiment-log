@@ -1,5 +1,17 @@
 origin	https://github.com/kezhen-coder/experiment-log.git (fetch)
 origin	https://github.com/kezhen-coder/experiment-log.git (push)
+commit 811812fad18becbcfaa1f884c7ee3e79347f0031
+Author: Kenneth <Kezhen@ucsd.edu>
+Date:   Thu Feb 5 18:43:48 2026 -0800
+
+    Add RID 006 deliverable
+
+commit 466b8f24b2eca7cca706fb535b326df623c58779
+Author: kezhen-coder <kezhen@ucsd.edu>
+Date:   Thu Feb 5 18:34:52 2026 -0800
+
+    Update README.md
+
 commit d5e32b3f7bcb03b3f7f4fec74dd56110708337c0
 Author: kezhen-coder <kezhen@ucsd.edu>
 Date:   Mon Feb 2 23:56:13 2026 -0800
